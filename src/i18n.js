@@ -1,11 +1,11 @@
-import {QRCodeSVG} from 'qrcode.react';
-import {QRCodeCanvas} from 'qrcode.react';
+// src/i18n.js
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 import en from './locales/en.json';
 import zh_tw from './locales/zh_TW.json';
 import es from './locales/es.json';
-import './App.css';
+
+// ...下方的 resources 和 i18n.init 保持原樣不變...
 
 
 
